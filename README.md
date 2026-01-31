@@ -53,35 +53,6 @@
 
 ---
 
-## 🚀 快速开始
-
-```bash
-# 克隆项目
-git clone https://github.com/caspianchan31/douyinman-public.git
-cd douyinman-public
-
-# 安装依赖
-npm install
-
-# 配置环境变量
-cp .env.example .env
-
-# 启动开发服务器
-npm run dev
-```
-
-访问 http://localhost:3000
-
----
-
-## 📝 环境变量
-
-```env
-DATABASE_URL="postgresql://user:password@localhost:5432/douyinman"
-```
-
----
-
 ## 📄 License
 
 MIT License © 2026
@@ -91,4 +62,3 @@ MIT License © 2026
 ## 🔗 联系方式
 
 - 🐦 Twitter: [@caspianchan31](https://twitter.com/caspianchan31)
-- 📧 Email: contact@example.com
