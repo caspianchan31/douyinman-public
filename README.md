@@ -2,6 +2,8 @@
 
 > 多平台短视频解析工具 - 支持抖音/TikTok/Bilibili
 
+🌐 **在线体验**: [https://douyinman.vercel.app](https://douyinman.vercel.app)
+
 ---
 
 ## ✨ 功能特性
