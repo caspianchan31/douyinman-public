@@ -40,4 +40,4 @@
 
 ## 🔗 联系方式
 
-- 🐦 Twitter: [@caspianchan31](https://twitter.com/caspianchan31)
+- 🐦 Twitter: [Caspianchan3](https://twitter.com/caspianchan3)
